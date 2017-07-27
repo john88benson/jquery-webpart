@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jqueryWb/JqueryWbWebPart.js",
+      "manifest": "./src/webparts/jqueryWb/JqueryWbWebPart.manifest.json",
+      "outputPath": "./dist/jquery-wb.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "jqueryWbStrings": "webparts/jqueryWb/loc/{locale}.js"
+  }
+}

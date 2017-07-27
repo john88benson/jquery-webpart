@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "jquery-webpart",
+    "libraryId": "2a4e649b-59b2-493b-9fc1-0d832723cdb1",
+    "environment": "spo"
+  }
+}
